@@ -14,9 +14,10 @@
 
 ## Testing Documentation
 
-+ [Checklists](https://docs.google.com/spreadsheets/d/1TAbnXAYxK4cFwHDE_K1-bcUmHphEwVg8eAozciv3c5I/edit?usp=sharing)
-+ [Test-Cases](https://docs.google.com/spreadsheets/d/1EK9YorKlpML4HFCwco7WRFDM2562QPcZJtJaKFks3tU/edit?usp=sharing)
-+ [Bug-Reports](https://docs.google.com/spreadsheets/d/1PcPQbKBoEMmkx5qyE6k6dAQlEDvDRnRM9xvR9mjwHZ8/edit?usp=sharing)
++ [Checklists](https://drive.google.com/drive/folders/11u9yMrD0d5O7QLqyU2Z30QmHkXTMcpF_?usp=sharing)
++ [Test-Cases](https://drive.google.com/drive/folders/19sS8PFtDD2j8DeUwVFvftd-povOMN5ar?usp=sharing)
++ [Bug-Reports](https://drive.google.com/drive/folders/1M-8BB49GkEV7_vs3VFvH5uBA5Hc_PRdY?usp=sharing)
++ [App Decomposition](https://drive.google.com/file/d/1r06HAuNnvRi63qumciliZotcrGju_H4l/view?usp=sharing)
 
 ## Follow me
 
