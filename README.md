@@ -1,7 +1,5 @@
 ![Header](github.png)
 
-# *QA Engineer*
-
 
 ## Languages and Tools
 ![Postman](https://img.shields.io/badge/Postman-black?style=for-the-badge&logo=postman)
