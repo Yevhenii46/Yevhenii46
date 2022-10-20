@@ -1,4 +1,4 @@
-![Header]()
+![Header](github-header-image.png)
 
 # *QA Engineer*
 
