@@ -1,4 +1,4 @@
-![Header](https://i.gifer.com/QWsX.gif)
+![Header](header.png)
 
 # *QA Engineer*
 
