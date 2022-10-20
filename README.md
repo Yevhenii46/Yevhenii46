@@ -24,4 +24,4 @@
 [![Limkedin](https://img.shields.io/badge/Linkedin-black?style=for-the-badge&logo=LINKEDIN)](https://www.linkedin.com/in/yevhenii-ivannikov-a72016254)
 [![Facebook](https://img.shields.io/badge/Facebook-black?style=for-the-badge&logo=facebook)](https://www.facebook.com/profile.php?id=100075219879654)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yevhenii46)](https://github.com/yevhenii46/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yevhenii46&show_icons=true&theme=merko)
